@@ -8,5 +8,5 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index(5)
-   5.to_i - 1
+   5.to_i
 end
