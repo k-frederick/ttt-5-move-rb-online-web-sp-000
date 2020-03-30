@@ -21,4 +21,3 @@ update_array_at_with(board, 0, "X")
 def move(board, index, player = "X")
    board[index] = player
 end
-
